@@ -1,0 +1,6 @@
+@GraphApiPOC_HostAddress = http://localhost:5022
+
+GET {{GraphApiPOC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
